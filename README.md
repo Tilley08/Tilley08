@@ -10,7 +10,8 @@ This repository will hold my assignments
 
 # About Me:  
     I'm originally from Maine, and I am a photographer. I specialize in e-commerce product photography and lifestyle. I am also currently fostering a pitbull named Pinky
-        _I didn't name her_
+        (I didn't name her)  
+
 ## Interests:
     1. Lacrosse
     2. Photography
