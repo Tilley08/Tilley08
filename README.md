@@ -17,7 +17,7 @@ This repository will hold my assignments
     4. Leatherworking
     5. Carpentry
 
-## Websites I recommend:
-    *[Coursera](https://www.coursera.org/) - Coursera is agreat resource to find "On your time" courses on any topic you may be interested in.
-    *[Youtube](https://www.youtube.com/) - As a visual learner, the range of beginner to expert videos Youtube a great resource. 
+## Websites I recommend:  
+*[Coursera](https://www.coursera.org/) - Coursera is agreat resource to find "On your time" courses on any topic you may be interested in.  
+*[Youtube](https://www.youtube.com/) - As a visual learner, the range of beginner to expert videos Youtube a great resource. 
 
