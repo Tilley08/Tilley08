@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Tilley08/Tilley08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,3 +20,4 @@ This repository will hold my assignments
 ## Websites I recommend:
     *[Coursera](https://www.coursera.org/) - Coursera is agreat resource to find "On your time" courses on any topic you may be interested in.
     *[Youtube](https://www.youtube.com/) - As a visual learner, the range of beginner to expert videos Youtube a great resource. 
+
